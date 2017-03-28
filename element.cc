@@ -2,4 +2,8 @@
 
 namespace chemTools {
 
+class Element {
+
+};
+
 } // namespace chemTools
